@@ -1,0 +1,20 @@
+{
+  "HomePage": {
+    "title": "Hello world!",
+    "about": "Go to the about page"
+  },
+
+  "Navbar-tra": {
+    "logo": "Smart Notes",
+    "home": "Home",
+    "about": "About",
+    "contact": "Contact"
+  },
+  "daily": {
+    "placeholder": "What did you learn today?",
+    "add": "Add",
+    "edit": "Edit",
+    "save": "Save",
+    "delete": "Delete"
+  }
+}
