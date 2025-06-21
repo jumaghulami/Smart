@@ -86,7 +86,7 @@ export default function DailyRow({ item }: DailyRowProps) {
           {notes.map((note) => (
             <div
               key={note.id}
-              className="flex items-start justify-between gap-3 p-4 border rounded-lg bg-muted/50"
+              className="flex items-start justify-between gap-3 p-3 border rounded-lg bg-muted/50"
             >
               {note.editing ? (
                 <Textarea
